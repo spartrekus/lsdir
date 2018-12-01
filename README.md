@@ -1,0 +1,2 @@
+# lsdir
+list directories only
